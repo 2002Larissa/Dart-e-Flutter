@@ -1,6 +1,6 @@
-# flutter_application_1
+# Dart-e-Flutter
 
-A new Flutter project.
+Material de estudo e aprendizado sobre a linguagem de programação Dart e o framework Flutter.
 
 ## Getting Started
 
